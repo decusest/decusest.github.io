@@ -1,8 +1,6 @@
 ---
-# the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+published: true
 ---
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi! I'm Jimin Park, a Ph.D. student in Industrial Engineering at KAIST, Korea. This blog is for summarizing what I've studied in machine learning.
